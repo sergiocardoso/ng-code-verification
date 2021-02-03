@@ -1,0 +1,37 @@
+{
+  "name": "ng-code-verification",
+  "version": "1.0.2",
+  "author": "Sérgio Cardoso <contato@sergiocardoso.dev>",
+  "peerDependencies": {
+    "@angular/common": "^10.0.14",
+    "@angular/core": "^10.0.14"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergiocardoso/ng-code-verification"
+  },
+  "bugs": {
+    "url": "https://github.com/sergiocardoso/ng-code-verification/issues"
+  },
+  "homepage": "https://github.com/sergiocardoso/ng-code-verification",
+  "keywords": [
+    "angular",
+    "javascript",
+    "typecript",
+    "code",
+    "number",
+    "verification"
+  ],
+  "license": "MIT",
+  "main": "bundles/ng-code-verification.umd.js",
+  "module": "fesm2015/ng-code-verification.js",
+  "es2015": "fesm2015/ng-code-verification.js",
+  "esm2015": "esm2015/ng-code-verification.js",
+  "fesm2015": "fesm2015/ng-code-verification.js",
+  "typings": "ng-code-verification.d.ts",
+  "metadata": "ng-code-verification.metadata.json",
+  "sideEffects": false
+}
